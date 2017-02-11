@@ -1,7 +1,5 @@
 <?php
 
-// ALTERAR TODAS AS CHAVES
-
 // TOKENS
 $verify_token = "CHAVE_BOT";
 $access_token = "CHAVE_PÁGINA";
